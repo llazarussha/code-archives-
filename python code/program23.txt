@@ -1,0 +1,6 @@
+#Name: Shannon Montana Daniels-Gamory
+#Dte: October 1, 2023
+#Email: shannon.danielsgamory81@myhunter.cuny.edu
+#This program approximates fractions from a user inputted list of nouns. 
+
+import matplotlib.pyplot as plt
