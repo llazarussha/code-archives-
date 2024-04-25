@@ -1,0 +1,18 @@
+#Name: Shannon Montana Daniels-Gamory
+#Email: shannon.danielsgamory81@myhunter.cuny.edu
+#Date: September 18, 2023
+#This program draws a cornflower blue pentagon
+
+import turtle
+
+screen = turtle.Screen()  
+mont = turtle.Turtle()
+mont.shape("turtle")
+
+mont.fillcolor("#6495ED")
+mont.pencolor("#6495ED")
+
+for i in range(5):
+  mont.forward(100)
+  mont.left(72)
+  mont.stamp()
